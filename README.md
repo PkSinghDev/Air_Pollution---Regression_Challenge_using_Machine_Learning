@@ -1,5 +1,5 @@
 # Air_Pollution---Regression_Challenge_using_Machine_Learning
-### Predicting Air Pollution Levels using Regression models
+### Predicting Air Pollution Levels using Linear Regression Model
 
 
 ## Problem Statement: -
