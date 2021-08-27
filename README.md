@@ -13,3 +13,6 @@ The train data consists of five feature columns and one target column. All the f
 
 ### Test Data: -
 The test data consists of all the columns as train data except for the target column which Aki has to predict using the model trained on the train data available.
+
+
+#### [Complete Solution Understanding.](https://medium.com/@pushpendrasinghcod/air-pollution-regression-challenge-using-machine-learning-e107301ef4a4)
